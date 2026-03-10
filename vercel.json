@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "framework": "sveltekit",
+  "rewrites": [
+    {
+      "source": "/api/calculate",
+      "destination": "api/calculate.go"
+    }
+  ]
+}
