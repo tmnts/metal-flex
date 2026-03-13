@@ -9,6 +9,7 @@
 ### ⚖️ License
 **GNU AGPLv3.** Copyleft since 2012. 
 *Because financial data tools should belong to the people, not just the gatekeepers.*
+*Because real world doesn't offer warranties either*
 
 ### ⚡ Research Challenges
 - Implementing real-time WebSocket streams for spot prices.
